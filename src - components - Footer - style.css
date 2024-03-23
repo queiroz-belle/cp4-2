@@ -1,0 +1,11 @@
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #337ab7; /* Cor de fundo azul */
+    color: white; /* Cor do texto */
+    text-align: center; /* Alinhamento do texto */
+    padding: 5px 0; /* Espaçamento interno */
+    margin-top: 35px; /* Espaçamento externo acima do rodapé */
+    width: 100%; /* Largura total */
+}
